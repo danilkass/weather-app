@@ -1,4 +1,6 @@
-# API https://openweathermap.org/
+# Weather-app
 
+API https://openweathermap.org/
+ 
 Create electron app:
 - npm run build 
