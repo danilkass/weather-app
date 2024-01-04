@@ -1,5 +1,5 @@
 # Weather-app
-- https://danilkass.github.io/weather-app/src/
+https://danilkass.github.io/weather-app/src/
 
 OpenWeather API https://openweathermap.org/
  
