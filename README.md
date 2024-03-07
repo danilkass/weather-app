@@ -1,8 +1,15 @@
 # Weather-app
+Настільний додаток, створений за допомогою Electron.js, який надає актуальну інформацію про погоду, час та дату введеного в пошуку міста
+
 Версія в браузері: https://danilkass.github.io/weather-app/src/
 
+## Стек технологій
+- HTML
+- CSS
+- JS
+- Electron.js
+  
 ## Інсталяція:
-
 Create electron app:
 - npm run build 
 
