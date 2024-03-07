@@ -7,8 +7,8 @@
 - HTML
 - CSS
 - JS
+- OpenWeather API (https://openweathermap.org/)
 - Electron.js
-##### Взаємодія з OpenWeather API (https://openweathermap.org/)
   
 ## Інсталяція:
 В папці проєкту
