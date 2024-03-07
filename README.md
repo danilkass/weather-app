@@ -6,7 +6,7 @@
 Create electron app:
 - npm run build 
 
-* Взаємодія з OpenWeather API (https://openweathermap.org/) *
+##### Взаємодія з OpenWeather API (https://openweathermap.org/)
 
 
 ## Результат роботи програми
